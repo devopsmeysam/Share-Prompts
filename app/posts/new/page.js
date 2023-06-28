@@ -3,7 +3,7 @@ import React from "react";
 const page = () => {
     
     return (
-        <div>POSTS</div>
+        <div>NEW POST</div>
     )
 }
 
